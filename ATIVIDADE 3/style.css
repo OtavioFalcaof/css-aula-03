@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    background-image: url(https://play-lh.googleusercontent.com/EnxJKkoXzxrmA0RA0gUie0K4gvbRLrQhpflyMzwSMvCfk2FA6o9sBLzfWtG5qLzIBIc);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-attachment: fixed;
+  }
+  
+  h1 {
+    background-color: green;
+    color: white;
+  }
